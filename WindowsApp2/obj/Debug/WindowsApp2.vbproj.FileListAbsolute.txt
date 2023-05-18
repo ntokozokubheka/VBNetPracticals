@@ -1,0 +1,12 @@
+T:\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+T:\WindowsApp2\bin\Debug\WindowsApp2.exe
+T:\WindowsApp2\bin\Debug\WindowsApp2.pdb
+T:\WindowsApp2\bin\Debug\WindowsApp2.xml
+T:\WindowsApp2\obj\Debug\WindowsApp2.vbproj.AssemblyReference.cache
+T:\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+T:\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+T:\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+T:\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+T:\WindowsApp2\obj\Debug\WindowsApp2.exe
+T:\WindowsApp2\obj\Debug\WindowsApp2.xml
+T:\WindowsApp2\obj\Debug\WindowsApp2.pdb

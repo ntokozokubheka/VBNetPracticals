@@ -1,0 +1,12 @@
+T:\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+T:\WindowsApp3\bin\Debug\WindowsApp3.exe
+T:\WindowsApp3\bin\Debug\WindowsApp3.pdb
+T:\WindowsApp3\bin\Debug\WindowsApp3.xml
+T:\WindowsApp3\obj\Debug\WindowsApp3.vbproj.AssemblyReference.cache
+T:\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+T:\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+T:\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+T:\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+T:\WindowsApp3\obj\Debug\WindowsApp3.exe
+T:\WindowsApp3\obj\Debug\WindowsApp3.xml
+T:\WindowsApp3\obj\Debug\WindowsApp3.pdb
